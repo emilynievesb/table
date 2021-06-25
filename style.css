@@ -1,0 +1,20 @@
+td{
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    border:1px solid black;
+    font-size: 20px;
+}
+.yelow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+table{
+    border-collapse:collapse;
+
+}
